@@ -1,8 +1,10 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=1000&width=600&lines=Hi!+I'm+JoaoGoulartt%F0%9F%91%8B;Tech+Lead+%7C+Android+%26+Web;Software+Engineering+student+%40+Inatel" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=1000&width=600&lines=Hi!+I'm+JoaoGoulartt%F0%9F%91%8B;Tech+Lead+%7C+Android+%26+Web;Software+Engineering+student+%40+Inatel" alt="Typing SVG" />
+    </a>
+  </h1>
+</div>
 
 <p align="center">
   I'm João Victor de Oliveira Goulart Costa — Tech Manager at <b>Scoder Tech Studio</b> and Software Engineering student at <b>Inatel</b>.
