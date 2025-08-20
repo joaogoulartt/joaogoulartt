@@ -1,36 +1,49 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=1000&width=435&lines=Hi!+I'm+JoaoGoulartt%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=1000&width=600&lines=Hi!+I'm+JoaoGoulartt%F0%9F%91%8B;Tech+Lead+%7C+Android+%26+Web;Software+Engineering+student+%40+Inatel" alt="Typing SVG" />
+  </a>
 </h1>
 
 <p align="center">
-    I'm João Goulart, a Web/Mobile Developer and Software Engeneering Student.
-    <br>
-    <br>
-    🎓 I'm currently studying at Inatel (Instituto Nacional de Telecomunicações)
-    <br>
-    🎨 Currently working as a front-end developer at Think Technology
+  I'm João Victor de Oliveira Goulart Costa — Tech Manager at <b>Scoder Tech Studio</b> and Software Engineering student at <b>Inatel</b>.
+  <br/><br/>
+  🏆 2nd place at <b>Inatel APP Challenge 2023</b> (app <i>Nettraf</i>)<br/>
+  🎓 Building products and teams while studying Software Engineering
 </p>
+
 <br/>
-<h1 align="center">
-🔥Skills🔥
-</h1>
+
+<h1 align="center">🚀 Featured Projects</h1>
+
 <p align="center">
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" /> 
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="https://github.com/joaogoulartt/ag2">
+    <img src="https://img.shields.io/badge/AG2%20-%20Credit%20Risk%20Analysis-Python%2FStreamlit%2FMySQL-orange?style=for-the-badge" alt="AG2 Project Badge" />
+  </a>
   <br/>
+  <i>Machine Learning + Streamlit app for credit risk analysis (INATEL course project).</i>
 </p>
 
-<h1 align="center">
-⚡GitHub stats⚡
-</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoGoulartt&show_icons=true&theme=dracula" alt="JoaoGoulartt's GitHub stats" />
+  <a href="https://github.com/joaogoulartt/S205-grid-responsividade">
+    <img src="https://img.shields.io/badge/S205%20-%20Grid%20%26%20Responsividade-Frontend-blue?style=for-the-badge" alt="S205 Project Badge" />
+  </a>
+  <br/>
+  <i>Responsive layout activity (INATEL).</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/joaogoulartt/setup-ubuntu">
+    <img src="https://img.shields.io/badge/Setup%20Ubuntu-Shell-lightgrey?style=for-the-badge" alt="Setup Ubuntu Badge" />
+  </a>
+  <br/>
+  <i>Personal bootstrap script for dev environment.</i>
+</p>
+
+<br/>
+
+<h1 align="center">🔗 Connect</h1>
+<p align="center">
+  <a href="https://br.linkedin.com/in/joao-victor-goulart-costa">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
